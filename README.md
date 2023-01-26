@@ -91,3 +91,6 @@ Execute the program
 ~~~
 # OUPUT
 ![output2](time.png)
+# RESULT:
+Thus the webpage page is designed to display my timetable.
+
